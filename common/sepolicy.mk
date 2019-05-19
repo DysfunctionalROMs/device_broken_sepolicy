@@ -1,13 +1,13 @@
 #
 # This policy configuration will be used by all products that
-# inherit from Slim
+# inherit from Broken
 #
 
 BOARD_PLAT_PUBLIC_SEPOLICY_DIR += \
-    device/slim/sepolicy/common/public
+    device/broken/sepolicy/common/public
 
 BOARD_PLAT_PRIVATE_SEPOLICY_DIR += \
-    device/slim/sepolicy/common/private
+    device/broken/sepolicy/common/private
 
 BOARD_SEPOLICY_DIRS += \
-   device/slim/sepolicy/common/vendor
+   device/broken/sepolicy/common/vendor

@@ -1,2 +1,2 @@
-# Slim services
-slimactions                             u:object_r:slim_actions_service:s0
+# Broken services
+brokenactions                             u:object_r:broken_actions_service:s0
