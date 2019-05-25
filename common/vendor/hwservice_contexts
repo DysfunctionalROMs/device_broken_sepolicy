@@ -1,1 +1,1 @@
-vendor.broken.power::ISlimPower      u:object_r:hal_broken_power_hwservice:s0
+#vendor.broken.power::ISlimPower      u:object_r:hal_broken_power_hwservice:s0
